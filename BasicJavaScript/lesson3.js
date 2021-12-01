@@ -14,6 +14,7 @@ First, this code creates a variable named myVar. Then, the code assigns 5 to myV
 //!Assign the value 7 to variable a.
 
 // Setup
-var a = 7;
+var a;
 
 // Only change code below this line
+a = 7;
