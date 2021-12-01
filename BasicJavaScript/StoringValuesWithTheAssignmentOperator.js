@@ -13,8 +13,11 @@ First, this code creates a variable named myVar. Then, the code assigns 5 to myV
 
 //!Assign the value 7 to variable a.
 
-// Setup
+//*Before
+
 var a;
 
-// Only change code below this line
+//*Answers
+
+var a;
 a = 7;

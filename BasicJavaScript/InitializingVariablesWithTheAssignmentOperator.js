@@ -6,4 +6,5 @@ Creates a new variable called myVar and assigns it an initial value of 0.*/
 
 //!Define a variable a with var and initialize it to a value of 9.
 
+//*Answers
 var a = 9;

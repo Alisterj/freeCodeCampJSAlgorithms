@@ -9,10 +9,16 @@ The above declares a myVar variable with no value, then assigns it the value 5. 
 
 //!Assign the contents of a to variable b.
 
-// Setup
+//*Before
+
 var a;
 a = 7;
 var b;
 
-// Only change code below this line
+//*Answers
+
+var a;
+a = 7;
+var b;
+
 b = a;
