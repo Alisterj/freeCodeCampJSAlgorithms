@@ -19,6 +19,7 @@ Write a switch statement which tests val and sets answer for the following condi
 4 - delta
 */
 
+
 function caseInSwitch(val) {
 	let answer = "";
 	// Only change code below this line
